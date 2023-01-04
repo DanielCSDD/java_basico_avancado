@@ -1,1 +1,2 @@
 # java_basico_avancado
+Este projeto é relativo a um treinamento voltado aos princípios da linguagem de programação Java. Na part final do cruso foi abordados algumas novidades da linguagem na versão 8.
